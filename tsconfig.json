@@ -19,6 +19,7 @@
     "dist"
   ],
   "angularCompilerOptions": {
-    "genDir": "aot"
+    "genDir": "aot",
+    "enableIvy": false
   }
 }
